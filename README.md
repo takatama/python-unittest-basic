@@ -6,7 +6,7 @@
  - 我々はムーアの法則の後半にいる。予測できない進化がICT分野で起きている。
  - コンピューターを使いこなす側にまわる。
 
-- [なぜすべての人がプログラミングを学ぶべきなのか？ | UNDERSTANDING.jp](http://understanding.jp/archives/portfolio/ted_infographics001)
+- [なぜすべての人がプログラミングを学ぶべきなのか？ | ビジュアルシンキング](http://www.visualthinking.jp/archives/19222)
  - デザインのプロセス。ぼんやりしたアイディアのから始めて実際に機能するプロジェクトにする。
  - 新しいアイディアを試す。
  - 複雑なアイディアを単純な部分へと分割する。
@@ -41,7 +41,7 @@
 ## 演習の進め方
 1. git checkout -b your_name
 2. git branch (* your_name になっていることを確認する)
-3. test_ex1.py を実行 -> 赤
+3. test_ex1.py を実($ python -m unittest tests.test_ex1) 行 -> 赤
 4. ex1.py を実装。test_ex1.py を実行 -> 緑
 5. git push origin your_name
 6. 3, 4, 5を繰り返す
