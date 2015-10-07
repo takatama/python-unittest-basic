@@ -1,11 +1,15 @@
 # coding: UTF-8
 
 
-def mod(a, b):
-    u""" 分子と分母から余りを取得する
+def concat(a, b):
+    u""" 同じ長さの2つのリストから、交互に要素を取り、1つのリストにしてください。
+    入力例: ["a", "b", "c"] と ["1", "2", "3"]
+    出力例: ["a", "1", "b", "2", "c", "3"]
 
-    :param a: 分子
-    :param b: 分母
-    :returns: 余り
+    assertEqualを使って、適切なテストを作ってください。
+
+    :param listA リストその1
+    :param listB リストその2
+    :returns 交互に要素を取り結合したリスト
     """
     return -1
