@@ -7,8 +7,4 @@ def sum(args):
     :param args: 数列
     :returns: 合計
     """
-    result = 0
-    for i in args:
-        #result = result + i
-        result += i
-    return result
+    return -1
