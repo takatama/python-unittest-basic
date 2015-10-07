@@ -41,7 +41,7 @@
 ## 演習の進め方
 1. git checkout -b your_name
 2. git branch (* your_name になっていることを確認する)
-3. test_ex1.py を実($ python -m unittest tests.test_ex1) 行 -> 赤
+3. test_ex1.py を実行 ($ python -m unittest tests.test_ex1) -> 赤
 4. ex1.py を実装。test_ex1.py を実行 -> 緑
 5. git push origin your_name
 6. 3, 4, 5を繰り返す
